@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "xiaomi_msm8998_KernelSU_Proton",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
-      "branch": "lineage-20",
+      "branch": "lineage-19.1",
       "device": "sagit",
       "defconfig": "msm_defconfig"
     },
