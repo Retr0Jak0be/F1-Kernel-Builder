@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/AOSP-13-Mediatek/kernel_xiaomi_chopin",
-      "branch": "r",
-      "device": "chopin",
-      "defconfig": "chopin_user_defconfig"
+      "name": "xiaomi_msm8998_KernelSU_Proton",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
+      "branch": "lineage-20",
+      "device": "sagit",
+      "defconfig": "msm_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
